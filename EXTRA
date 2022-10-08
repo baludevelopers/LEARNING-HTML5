@@ -1,0 +1,54 @@
+ Front End : 
+    react, html, css, bootstrap
+    Front end can not talk to database
+    front end talk to back end then back end talk to database.
+    design(static website)
+    HTML  > structure
+    css   > design
+    bootstrap > reponsive 
+
+
+    React 
+
+    Payment gateway (paytm)
+    Email server(email)
+    Oauth (Login with Google/github)
+    Login/logout (with Jwt)
+
+
+
+
+
+Dynamic:
+    Javascript > logical
+
+Backend (Api)
+ Node Js > 
+
+
+
+
+
+
+Databse: 
+    Mongodb, Redis , Postgres.
+
+Deployment: 
+>Ci/Cd with AWS 
+>Heroku
+
+
+
+------------------------------------------------------------------
+
+>> Customer 
+    
+>> Vendor
+    >order
+    >Accept reject 
+    >Add more item 
+
+
+
+ 
+

@@ -8,6 +8,9 @@ HTML:-
 
 
 Tags:-
-    1. inline element 
-    2. Block line elemnet  
+    1. inline element - span , image, ancher tags --those start in same line
+    2. Block line elemnet  - p,h.----those start in new line
+
+Target=_blank ------open website new tab  
+
     
